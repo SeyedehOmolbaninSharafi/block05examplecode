@@ -5,6 +5,7 @@ package FragileBaseClass;
  *
  * Block 2-2: Inheritance, when and how?
  */
+//man*/
 public class ChangeCounterRectangle extends Rectangle {
 
     /* FragileBaseClass.Rectangle:
